@@ -17,10 +17,10 @@ Hey there,
 ### Languages and Tools:
 
 
-<a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" width="76px" src="https://github.com/vrushalird/test-repo/raw/main/java.jpg?raw=true"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" width="26px" src="https://github.com/vrushalird/test-repo/raw/main/c.png?raw=true"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/></a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" width="76px" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg?raw=true"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" width="26px" src="https://github.com/vrushalird/test-repo/raw/images/C.png?raw=true"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img align="left" alt="C++" width="26px" src="https://github.com/vrushalird/test-repo/raw/images/C++.png?raw=true"/></a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/vrushalird/test-repo/raw/images/github.png?raw=true" />
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <br />
