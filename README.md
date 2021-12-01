@@ -17,21 +17,17 @@ Hey there,
 
 ### Languages and Tools:
 
+
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg"> 
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/cpp.png">
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/c-programming.png">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/html.png">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/css3.jpg">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/automationanywhere.png">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/blueprism.png">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/github.png">
 
-
-<code><img align="left" alt="Java" width="80px" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg?raw=true"/></code>
-<code><img align="left" alt="C" width="60px" src="https://github.com/vrushalird/test-repo/raw/images/C.png?raw=true"/></code>
-<code><img align="left" alt="C++" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/cpp.png?raw=true"/></code>
-<code><img align="left" alt="GitHub" width="42px" src="https://github.com/vrushalird/test-repo/raw/images/github.png?raw=true" /></code>
-<code><a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/html.png?raw=true" /></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/css3.jpg?raw=true" /></a></code>
-
-
+<br><br>
 <br><br>  
 <p  align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
@@ -44,6 +40,11 @@ Hey there,
 <a href="https://www.java.com/" target="_blank"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
  <a href="https://www.cprogramming.com/" target="_blank">
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/css3.jpg?raw=true" /></a></code>
+<code><a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/html.png?raw=true" /></a></code>
+<code><img align="left" alt="Java" width="80px" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg?raw=true"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
