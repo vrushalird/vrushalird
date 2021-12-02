@@ -21,8 +21,10 @@ Hey there,
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg"> 
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/cpp.png">
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/c-programming.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/html.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/css3.jpg">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/csharp.png">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/NET.jpg">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/html5.png">
+<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/css3.png">
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/automationanywhere.png">
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/blueprism.png">
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/github.png">
