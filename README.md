@@ -54,8 +54,10 @@
 
 
 <br><br>  
-  
-
+ ---
+<p align="center">
+  *If you liked my profile, you can star ⭐ the repo and if you want to use this template, you can Fork it and use.* 
+</p>
 <!---
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true" alt="vrushalird" /></p>
 
