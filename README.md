@@ -1,25 +1,22 @@
-Hey there, 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, 
 ==========
 <p align="left">
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
+  <img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
   <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
-    <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
+    <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
   </a>
   <a href="https://twitter.com/Vrushalird_" >
-    <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter Profile" width="22px"/>
+    <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter Profile" width="22px"/>
   </a>
   <a href="mailto:vrushali.geek@gmail.com" >
-    <img align="left" src="https://github.com/vrushalird/test-repo/raw/images/mail.png" alt="Email" width="22px"/>
+    <img align="left" height="20" src="https://github.com/vrushalird/test-repo/raw/images/mail.png" alt="Email" width="22px"/>
   </a>
 </p>
-
-  
  
 <br><br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I’m [Vrushali D](https://github.com/vrushalird)!  
-<img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="25px"> I’m interested in developing solutions using Java, C#, .NET and continuosly learning new technologies.  
-<img src="https://media.giphy.com/media/3ohhwFmrcYqKEHg3Kw/giphy.gif" width="25px">  I’m currently learning Robotic Process Automation (RPA) tools like Automation Anywhere (v11.0), Blue Prism (v6.10) and scripting languages for building automation solutions.  
+
+> I’m [Vrushali D](https://github.com/vrushalird), interested in developing solutions using Java, C#, .NET and continuosly learning new technologies, currently learning Robotic Process Automation (RPA) tools like Automation Anywhere (v11.0), Blue Prism (v6.10) and scripting languages for building automation solutions.  
 
 
 ### Languages and Tools:
@@ -37,7 +34,7 @@ Hey there,
 <img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/github.png">
 
 <br><br>
-
+***
 ### Badges:
 
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/botdeveloper-v11.png">
@@ -49,25 +46,23 @@ Hey there,
 
 <br><br>  
 <br><br>
-
+***
 ### My Github Stats:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true" alt="vrushalird" /></p>
-    
-### 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)](https://github.com/vrushalird/github-readme-stats)
-
-<br><br>
-<br><br>  
-
+![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)
 
 
 <br><br>  
   
 
 <!---
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true" alt="vrushalird" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)](https://github.com/vrushalird/github-readme-stats)
  👀 🌱 📫 💼
+<img src="https://media.giphy.com/media/3ohhwFmrcYqKEHg3Kw/giphy.gif" width="25px">
+<img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="25px">
 <a href="https://www.java.com/" target="_blank"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
  <a href="https://www.cprogramming.com/" target="_blank">
