@@ -36,14 +36,18 @@ Hey there,
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/botdeveloper-v11.png">
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/controlroomadmin.png">
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/technicalsupportspec.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/bp_badge1.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/bp_badge2.png">
 
 
 <br><br>
 <br><br>
 <br><br>  
+
 <p  align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
 </p>
+
 <br><br>  
   
 
