@@ -1,13 +1,20 @@
 Hey there, 
 ==========
-<a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
+<p align="left">
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
+  <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
     <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
-</a>
-<a href="https://twitter.com/Vrushalird_" >
+  </a>
+  <a href="https://twitter.com/Vrushalird_" >
     <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter Profile" width="22px"/>
-</a>
+  </a>
+  <a href="mailto:vrushali.geek@gmail.com" >
+    <img align="left" src="https://github.com/vrushalird/test-repo/raw/images/mail.png" alt="Email" width="22px"/>
+  </a>
+</p>
+
   
- [:envelope:](mailto:vrushali.geek@gmail.com)
+ 
 <br><br>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I’m [Vrushali D](https://github.com/vrushalird)!  
@@ -40,13 +47,21 @@ Hey there,
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/bp_badge2.png">
 
 
+<br><br>  
 <br><br>
+
+### My Github Stats:
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true" alt="vrushalird" /></p>
+    
+### 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)](https://github.com/vrushalird/github-readme-stats)
+
 <br><br>
 <br><br>  
 
-<p  align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
-</p>
+
 
 <br><br>  
   
@@ -56,6 +71,7 @@ Hey there,
 <a href="https://www.java.com/" target="_blank"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
  <a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true&theme=gotham" alt="vrushalird" />
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/css3.jpg?raw=true" /></a></code>
 <code><a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="40px" src="https://github.com/vrushalird/test-repo/raw/images/html.png?raw=true" /></a></code>
 <code><img align="left" alt="Java" width="80px" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg?raw=true"/></code>
