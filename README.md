@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
     <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
   </a>
-  <a href="https://twitter.com/Vrushalird_" >
+  <a href="https://twitter.com/Vrushali__D" >
     <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter Profile" width="22px"/>
   </a>
   <a href="mailto:vrushali.geek@gmail.com" >
@@ -16,7 +16,7 @@
 <br><br>
 
 
-> I’m [Vrushali D](https://github.com/vrushalird), interested in developing solutions using Java, C#, .NET and continuosly learning new technologies, currently learning Robotic Process Automation (RPA) tools like Automation Anywhere (v11.0), Blue Prism (v6.10) and scripting languages for building automation solutions.  
+> I’m [Vrushali D](https://github.com/vrushalird), highly passionate professional experienced in Robotic Process Automation (RPA) tools using Automation Anywhere (v11.0) and Blue Prism (v6.10) and scripting languages for developing automated solutions, and continuosly learning new technologies.  
 
 
 ### Languages and Tools:
