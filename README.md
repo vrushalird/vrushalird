@@ -9,7 +9,7 @@
     <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter Profile" width="22px"/>
   </a>
   <a href="mailto:vrushali.geek@gmail.com" >
-    <img align="left" height="20" src="https://github.com/vrushalird/test-repo/raw/images/mail.png" alt="Email" width="22px"/>
+    <img align="left" height="20" src="https://github.com/vrushalird/assets/raw/images/mail.png" alt="Email" width="22px"/>
   </a>
 </p>
  
@@ -22,26 +22,26 @@
 ### Languages and Tools:
 
 
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/automationanywhere.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/blueprism.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/java.jpg"> 
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/cpp.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/c-programming.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/csharp.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/dotnet.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/html5.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/css3.png">
-<img align="left" height="40" src="https://github.com/vrushalird/test-repo/raw/images/github.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/automationanywhere.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/blueprism.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/java.jpg"> 
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/cpp.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/c-programming.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/csharp.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/dotnet.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/html5.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/css3.png">
+<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/github.png">
 
 <br><br>
 ***
 ### Badges:
 
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/botdeveloper-v11.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/controlroomadmin.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/technicalsupportspec.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/bp_badge1.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/test-repo/raw/images/bp_badge2.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/botdeveloper-v11.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/controlroomadmin.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/bp_badge1.png">
+<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/bp_badge2.png">
 
 
 <br><br>  
