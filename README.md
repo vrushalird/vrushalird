@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, 
 ==========
 <p align="left">
-  <img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird">
+  <img align="right" height="20" src="https://vbr.wocr.tk/badge?page_id=vrushalird.vrushalird">
   <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
     <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
   </a>
@@ -12,7 +12,7 @@
     <img align="left" height="20" src="https://github.com/vrushalird/assets/raw/images/mail.png" alt="Email" width="22px"/>
   </a>
 </p>
- 
+ <!---https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird---->
 <br><br>
 
 
