@@ -36,8 +36,9 @@
 <br><br>
 ***
 ### Badges:
-
+<a href="https://certificates.automationanywhere.com/363355d9-f408-4b43-a67e-ee72578333f0">
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/botdeveloper-v11.png">
+</a>
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/controlroomadmin.png">
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
 <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/bp_badge1.png">
