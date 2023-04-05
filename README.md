@@ -37,12 +37,27 @@
 ***
 ### Badges:
 <a href="https://certificates.automationanywhere.com/363355d9-f408-4b43-a67e-ee72578333f0">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/botdeveloper-v11.png">
+  <img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/botdeveloper-v11.png">
 </a>
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/controlroomadmin.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/bp_badge1.png">
-<img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/bp_badge2.png">
+<a href="https://certificates.automationanywhere.com/5ac14009-e370-4dda-a484-494e685ac904">
+<img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/controlroomadmin.png">
+</a>
+<a href="https://certificates.automationanywhere.com/9414ed67-b327-462f-bbd8-6e60544ff0bb">
+<img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
+</a>
+
+
+<br><br>
+<br><br>
+<br><br>
+***
+### Certificates:
+<a href="https://certificates.automationanywhere.com/d3a21306-198a-4408-9c58-85463623cb9b">
+  <img align="left" width="100" height="100" src="">
+</a>
+<a href="https://www.credly.com/badges/f6b7fc00-f28c-4e64-b48d-786832d509d1?source=linked_in_profile">
+  <img align="left" width="100" height="100" src="">
+</a>
 
 
 <br><br>  
