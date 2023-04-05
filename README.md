@@ -53,10 +53,10 @@
 ***
 ### Certificates:
 <a href="https://certificates.automationanywhere.com/d3a21306-198a-4408-9c58-85463623cb9b">
-  <img align="left" width="100" height="100" src="">
+  <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/rf4w613j_1680715629283.pdf">
 </a>
 <a href="https://www.credly.com/badges/f6b7fc00-f28c-4e64-b48d-786832d509d1?source=linked_in_profile">
-  <img align="left" width="100" height="100" src="">
+  <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/Badge-MSAzureFundamentals.png">
 </a>
 
 
