@@ -19,7 +19,7 @@
 
 > I’m [Vrushali D](https://github.com/vrushalird), highly passionate professional experienced in Robotic Process Automation (RPA) tools using Automation Anywhere (v11.0) and Blue Prism (v6.10) and scripting languages for developing automated solutions, and continuosly learning new technologies.  
 
-
+<!---
 ### Languages and Tools:
 
 
@@ -35,6 +35,7 @@
 <img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/github.png">
 
 <br><br>
+---->
 ***
 ### Badges:
 <a href="https://certificates.automationanywhere.com/363355d9-f408-4b43-a67e-ee72578333f0">
@@ -67,9 +68,6 @@
 ### My Github Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true)
-
-<br> 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird)
 
 
