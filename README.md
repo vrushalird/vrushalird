@@ -66,7 +66,10 @@
 ### My Github Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)
+
+<br> 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird)
 
 
 <br><br>  
