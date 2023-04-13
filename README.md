@@ -61,11 +61,9 @@
 <img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
 </a>
 
-
 <br><br>
 <br><br>
 <br><br>
-
 
 ### Github Stats:
 
