@@ -49,7 +49,7 @@
 <br><br>  
 <br><br>
 ---->
-***
+
 ### Badges:
 <a href="https://certificates.automationanywhere.com/363355d9-f408-4b43-a67e-ee72578333f0">
   <img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/botdeveloper-v11.png">
@@ -66,19 +66,19 @@
 <br><br>
 <br><br>
 
-***
-### My Github Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)
+### Github Stats:
 
-
-<br><br>  
+![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true&hide_title=true)
+<br>
+### Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&hide=javascript,html&layout=compact&hide_title=true)](https://github.com/vrushalird/github-readme-stats)  
  ---
 <p align="center">
   If you liked my profile, you can star ⭐ the repo and if you want to use this template, you can Fork it and use. 
 </p>
 <!---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true" alt="vrushalird" /></p>
 <img align="right" height="20" src="https://vbr.wocr.tk/badge?page_id=vrushalird.vrushalird">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)](https://github.com/vrushalird/github-readme-stats)
