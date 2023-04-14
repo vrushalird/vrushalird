@@ -48,6 +48,8 @@
 
 <br><br>  
 <br><br>
+<br><br>  
+<br><br>
 ---->
 
 ### Badges:
@@ -61,10 +63,7 @@
 <img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
 </a>
 
-<br><br>
-<br><br>
-<br><br>
-
+<br><br><br><br><br><br><br><br>
 ### Github Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true&hide_title=true)
