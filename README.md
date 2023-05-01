@@ -2,7 +2,8 @@
 ==========
 
 <p align="left">
-  <img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird&left_color=green&right_color=red">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <!---img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird&left_color=green&right_color=red"--->
   <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
     <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
   </a>
@@ -71,10 +72,11 @@
 ### Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&hide=javascript,html&layout=compact&hide_title=true)](https://github.com/vrushalird/github-readme-stats)  
  ---
+
+<!---
 <p align="center">
   If you liked my profile, you can star ⭐ the repo and if you want to use this template, you can Fork it and use. 
 </p>
-<!---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&layout=compact)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true" alt="vrushalird" /></p>
 <img align="right" height="20" src="https://vbr.wocr.tk/badge?page_id=vrushalird.vrushalird">
