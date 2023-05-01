@@ -2,7 +2,7 @@
 ==========
 
 <p align="left">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
   <!---img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird&left_color=green&right_color=red"--->
   <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
     <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
