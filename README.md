@@ -70,8 +70,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true&hide_title=true)
 <br>
 ### Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&hide=javascript,html&layout=compact&hide_title=true)](https://github.com/vrushalird/github-readme-stats)  
- ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&hide=javascript,html&layout=compact&hide_title=true)](https://github.com/vrushalird/github-readme-stats) 
+### GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vrushalird)](https://git.io/streak-stats)
+
+---
 
 <!---
 <p align="center">
