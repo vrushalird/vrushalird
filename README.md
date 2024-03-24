@@ -5,10 +5,10 @@
   <img align="right" alt="GIF" src="assets/img/GitHub-Avatar.gif" width="300" height="200" />
   <!---img align="right" height="20" src="https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird&left_color=green&right_color=red"--->
   <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
-    <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="LinkedIn Profile" width="22px"/>
+    <img align="left" height="20" src="assets/img/linkedin.png" alt="LinkedIn Profile" width="22px"/>
   </a>
   <a href="https://twitter.com/Vrushali__D" >
-    <img align="left" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter Profile" width="22px"/>
+    <img align="left" height="20" src="assets/img/twitter.png" alt="Twitter Profile" width="22px"/>
   </a>
   <a href="mailto:vrushali.geek@gmail.com" >
     <img align="left" height="20" src="https://github.com/vrushalird/assets/raw/images/mail.png" alt="Email" width="22px"/>
