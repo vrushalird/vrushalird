@@ -1,77 +1,58 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm Vrushali Daware
 ==========
 
-<p align="left">
+<div align="center">
   <img align="right" alt="GIF" src="assets/img/GitHub-Avatar.gif" width="300" height="200" />
-  <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
-    <img align="left" height="20" src="assets/img/linkedin.png" alt="LinkedIn Profile" width="22px"/>
-  </a>
-  <a href="https://twitter.com/Vrushali__D" >
-    <img align="left" height="20" src="assets/img/twitter.png" alt="Twitter Profile" width="22px"/>
-  </a>
-  <a href="mailto:vrushali.geek@gmail.com" >
-    <img align="left" height="20" src="assets/img/mail.png" alt="Email" width="22px"/>
-  </a>
-</p>
- <!---https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird---->
-<br><br>
-
-
-> I’m [Vrushali D](https://github.com/vrushalird), highly passionate professional experienced in Robotic Process Automation (RPA) tools using Automation Anywhere (v11.0) and Blue Prism (v6.10) and scripting languages for developing automated solutions, and continuosly learning new technologies.  
-
-<!---
-### Languages and Tools:
-
-
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/automationanywhere.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/blueprism.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/java.jpg"> 
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/cpp.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/c-programming.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/csharp.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/dotnet.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/html5.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/css3.png">
-<img align="left" height="40" src="https://github.com/vrushalird/assets/raw/images/github.png">
-
-<br><br>
-
-***
-### Certificates:
-<a href="https://certificates.automationanywhere.com/d3a21306-198a-4408-9c58-85463623cb9b">
-  <img align="left" width="90" height="100" src="https://github.com/vrushalird/assets/raw/images/rf4w613j_1680715629283.png">
-</a>
-<a href="https://www.credly.com/badges/f6b7fc00-f28c-4e64-b48d-786832d509d1?source=linked_in_profile">
-  <img align="left" width="100" height="100" src="https://github.com/vrushalird/assets/raw/images/Badge-MSAzureFundamentals.png">
-</a>
-
-
-<br><br>  
-<br><br>
-<br><br>  
-<br><br>
----->
-
-### Badges:
-<a href="https://certificates.automationanywhere.com/363355d9-f408-4b43-a67e-ee72578333f0">
-  <img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/botdeveloper-v11.png">
-</a>
-<a href="https://certificates.automationanywhere.com/5ac14009-e370-4dda-a484-494e685ac904">
-<img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/controlroomadmin.png">
-</a>
-<a href="https://certificates.automationanywhere.com/9414ed67-b327-462f-bbd8-6e60544ff0bb">
-<img align="left" width="150" height="150" src="https://github.com/vrushalird/assets/raw/images/technicalsupportspec.png">
-</a>
-
-<br><br><br><br><br><br><br><br>
-### Github Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=vrushalird&show_icons=true&hide_title=true)
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29C7DB&center=true&vCenter=true&random=false&height=200&lines=RPA+Developer;Active+Learner;AI+Enthusiast;Artist" alt="Typing SVG" /></a>
+</div>
 <br>
-### Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&hide=javascript,html&layout=compact&hide_title=true)](https://github.com/vrushalird/github-readme-stats) 
-### GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vrushalird)](https://git.io/streak-stats)
+ <!---https://visitor-badge.glitch.me/badge?page_id=vrushalird.vrushalird---->
+
+  
+> A highly passionate professional experienced in Robotic Process Automation (RPA) tools using Automation Anywhere (v11.0) and Blue Prism (v6.10) and scripting languages for developing automated solutions, and continuosly learning new technologies. 
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills <br>
+<p align="center">
+
+- **Softwares and Tools**:
+
+ 
+- **Languages**:
+    
+    ![CSharp](https://img.shields.io/badge/CSharp%20-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+<br>
+
+## Github Stats:
+
+<div align="center">
+  <a href="https://github.com/vrushalird">
+    <img src="https://github-readme-stats.vercel.app/api?username=vrushalird&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FCFCFC&icon_color=FCEC60&text_color=FCFCFC&bg_color=45,29C7DB,009AAE">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalird&hide=javascript,html&layout=compact&line_height=20&title_color=FCFCFC&icon_color=FCEC60&text_color=FCFCFC&bg_color=45,29C7DB,009AAE">
+  </a>
+</div>
+
+<br>
+
+## GitHub Streak:
+
+<div align="center">
+  <a href="[https://git.io/streak-stats](https://github.com/vrushalird)"><img src="https://github-readme-streak-stats.herokuapp.com?user=vrushalird&theme=dark&background=45%2C29C7DB%2C009AAE&stroke=FCEC60&ring=FCEC60&fire=FCEC60&currStreakNum=FCFCFC&sideNums=FCFCFC&currStreakLabel=FCEC60&sideLabels=FCEC60&dates=FCFCFC" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
@@ -109,5 +90,24 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 --->
-<br/>
+<br>
+
+## Let's Connect
+
+<a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
+    <img align="left" height="20" src="assets/img/linkedin.png" alt="LinkedIn Profile" width="22px"/>
+  </a>
+  <a href="https://twitter.com/Vrushali__D" >
+    <img align="left" height="20" src="assets/img/twitter.png" alt="Twitter Profile" width="22px"/>
+  </a>
+  <a href="mailto:vrushali.geek@gmail.com" >
+    <img align="left" height="20" src="assets/img/mail.png" alt="Email" width="22px"/>
+  </a>
+
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=vrushalird&label=Profile%20views&color=29C7DB&style=flat" alt="vrushalird" /> </p>
+
+
+  <p align = "center">
+	<img src = "https://github.com/vrushalird/vrushalird/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
