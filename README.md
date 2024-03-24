@@ -54,8 +54,6 @@
   <a href="[https://git.io/streak-stats](https://github.com/vrushalird)"><img src="https://github-readme-streak-stats.herokuapp.com?user=vrushalird&theme=dark&background=45%2C29C7DB%2C009AAE&stroke=FCEC60&ring=FCEC60&fire=FCEC60&currStreakNum=FCFCFC&sideNums=FCFCFC&currStreakLabel=FCEC60&sideLabels=FCEC60&dates=FCFCFC" alt="GitHub Streak" /></a>
 </div>
 
----
-
 <!---
 <p align="center">
   If you liked my profile, you can star ⭐ the repo and if you want to use this template, you can Fork it and use. 
@@ -105,7 +103,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=vrushalird&label=Profile%20views&color=29C7DB&style=flat" alt="vrushalird" /> </p>
-
 
   <p align = "center">
 	<img src = "https://github.com/vrushalird/vrushalird/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
