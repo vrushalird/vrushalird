@@ -23,6 +23,13 @@ Do check my portfolio and let me know your thoughts: <a href="https://vrushalird
 
 - **Softwares and Tools**:
 
+
+  <img src="assets/img/Blue-Prism.png" style="width:80px;height:100%">
+  <img src="assets/img/Automation-Anywhere.png" style="width:80px;height:100%">
+  <img src="assets/img/GitHub.png" style="width:80px;height:100%">
+  <img src="assets/img/Postman.png" style="width:80px;height:100%">
+  <img src="assets/img/Visual-Studio-Code.png" style="width:80px;height:100%">
+
  
 - **Languages**:
     
