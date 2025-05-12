@@ -11,13 +11,6 @@
 > A highly passionate professional experienced in Robotic Process Automation (RPA) tools using Automation Anywhere (v11.0) and Blue Prism (v6.10) and scripting languages for developing automated solutions, and continuosly learning new technologies. 
 <br>
 
-## Portfolio
-
-<p>
-Do check my portfolio and let me know your thoughts: <a href="https://vrushalird.github.io/portfolio/">Vrushali Daware | Portfolio</a>
-</p>
-<br>
-
 ## Skills <br>
 <p align="center">
 
@@ -49,7 +42,7 @@ Do check my portfolio and let me know your thoughts: <a href="https://vrushalird
 
 </p>
 <br>
-
+<!--
 ## GitHub Profile Trophy
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=vrushalird&theme=buddhism&rank=-C,-?">
@@ -77,9 +70,13 @@ Do check my portfolio and let me know your thoughts: <a href="https://vrushalird
 <p align = "center">
 	<img src = "https://github.com/vrushalird/vrushalird/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+-->
 
-## Let's Connect
+## Portfolio
 
+<p>
+Do check my portfolio and let me know your thoughts: <a href="https://vrushalird.github.io/portfolio/">Vrushali Daware | Portfolio</a>
+</p>
 <a href="https://www.linkedin.com/in/vrushali-daware-2a6a08138/" >
     <img align="left" height="20" src="assets/img/linkedin.png" alt="LinkedIn Profile" width="22px"/>
   </a>
@@ -89,12 +86,7 @@ Do check my portfolio and let me know your thoughts: <a href="https://vrushalird
   <a href="mailto:vrushali.geek@gmail.com" >
     <img align="left" height="20" src="assets/img/mail.png" alt="Email" width="22px"/>
   </a>
+<br>
+
 
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=vrushalird&label=Profile%20views&color=29C7DB&style=flat" alt="vrushalird" /> </p>
-
-
----
-
-<p align="center">
-  If you liked my profile, you can star ⭐ the repo and if you want to use this template, you can Fork it and use. 
-</p>
